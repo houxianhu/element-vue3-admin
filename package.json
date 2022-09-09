@@ -1,0 +1,45 @@
+{
+  "name": "element-vue3-admin",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.9",
+    "@tmagic/editor": "^1.1.1",
+    "@tmagic/form": "^1.1.1",
+    "@tmagic/stage": "^1.1.1",
+    "axios": "^0.27.2",
+    "echarts": "^5.3.3",
+    "element-plus": "^2.2.15",
+    "file-saver": "^2.0.5",
+    "js-cookie": "^3.0.1",
+    "jsencrypt": "^3.2.1",
+    "mitt": "^3.0.0",
+    "path-browserify": "^1.0.1",
+    "path-to-regexp": "^6.2.1",
+    "pinia": "^2.0.21",
+    "vite-plugin-svg-icons": "^2.0.1",
+    "vite-plugin-vue-setup-extend": "^0.4.0",
+    "vue": "^3.2.37",
+    "vue-request": "^1.2.4",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.31",
+    "@iconify/json": "^2.1.100",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "dart-sass": "^1.25.0",
+    "sass": "^1.54.6",
+    "unplugin-auto-import": "^0.11.2",
+    "unplugin-element-plus": "^0.4.1",
+    "unplugin-icons": "^0.14.8",
+    "unplugin-vue-components": "^0.22.4",
+    "vite": "^3.0.7",
+    "vite-plugin-inspect": "^0.6.0"
+  }
+}
